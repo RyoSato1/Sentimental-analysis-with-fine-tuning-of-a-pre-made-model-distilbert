@@ -68,9 +68,9 @@ Overall, the model demonstrated good performance, achieving an accuracy of 85.21
 
 Bellow  are the imagens of roc curve of both model and baseline model.
 
-![baseline ROC curve](images/ROCcurve2.png)
+![baseline ROC curve](images/ROCcurve2.PNG)
 
-![Model ROC curve](images/ROCcurve1.png)
+![Model ROC curve](images/ROCcurve1.PNG)
 
 In terms of inference, the response time is relatively short, mitigating any concerns related to processing time.
 
