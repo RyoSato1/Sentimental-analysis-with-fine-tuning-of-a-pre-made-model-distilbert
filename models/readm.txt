@@ -1,0 +1,1 @@
+The local of the trained model output
